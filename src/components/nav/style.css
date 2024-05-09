@@ -1,0 +1,19 @@
+nav{
+    color: var(--white);
+    /* background: var(--btn); */
+    justify-content: space-around;
+    align-items: center;
+    /* padding-left: 2%; */
+   
+}
+.list{
+    display: flex;
+    gap: 10px;
+}
+.subcribbutton{
+    color: black;
+    border-radius: 20px;
+    padding-inline:  10px;
+    text-transform: capitalize;
+
+}

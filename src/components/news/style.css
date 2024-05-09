@@ -1,0 +1,8 @@
+.news{
+    margin: auto;
+    padding-inline: 50px;
+    background: var(--white);
+    height: 100vh;
+    color: black;
+  
+  }
